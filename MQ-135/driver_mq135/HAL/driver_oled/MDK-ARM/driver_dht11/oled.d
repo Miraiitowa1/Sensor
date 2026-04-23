@@ -1,0 +1,15 @@
+driver_dht11\oled.o: ..\Drivers\afeiyaMCU\OLED.c
+driver_dht11\oled.o: E:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h
+driver_dht11\oled.o: .\RTE\_driver_dht11\RTE_Components.h
+driver_dht11\oled.o: ../Drivers/CMSIS/Include/core_cm3.h
+driver_dht11\oled.o: E:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+driver_dht11\oled.o: ../Drivers/CMSIS/Include/cmsis_version.h
+driver_dht11\oled.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+driver_dht11\oled.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+driver_dht11\oled.o: E:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h
+driver_dht11\oled.o: ..\Drivers\afeiyaMCU\OLED.h
+driver_dht11\oled.o: ..\Drivers\afeiyaMCU\OLED_Data.h
+driver_dht11\oled.o: E:\Keil\ARM\ARMCC\Bin\..\include\string.h
+driver_dht11\oled.o: E:\Keil\ARM\ARMCC\Bin\..\include\math.h
+driver_dht11\oled.o: E:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+driver_dht11\oled.o: E:\Keil\ARM\ARMCC\Bin\..\include\stdarg.h
