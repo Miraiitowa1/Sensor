@@ -10,9 +10,11 @@
 #define IN  0
 #define OUT 1
 
-#define DHT11_Low GPIO_ResetBits(DHT11_GPIO_PORT, DHT11_GPIO_PIN);
-#define DHT11_High GPIO_SetBits(DHT11_GPIO_PORT, DHT11_GPIO_PIN);
+//DHT11控制宏定义
+#define DHT11_Low       GPIO_ResetBits(DHT11_GPIO_PORT, DHT11_GPIO_PIN);
+#define DHT11_High      GPIO_SetBits(DHT11_GPIO_PORT, DHT11_GPIO_PIN);
 
+//函数声明
 void DHT11_Mode(uint8_t mode);									//DHT11模式切换
 void DHT11_Start(void);											//DHT11信号开始
 uint8_t DHT11_Check(void);										//DHT11信号响应

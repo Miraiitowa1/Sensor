@@ -3,11 +3,11 @@
         {
             "name": "Target 1",
             "includePath": [
-                "e:\\32\\Sensor\\0.96寸OLED\\driver_oled\\Standard library\\Start",
-                "e:\\32\\Sensor\\0.96寸OLED\\driver_oled\\Standard library\\Library",
-                "e:\\32\\Sensor\\0.96寸OLED\\driver_oled\\Standard library\\User",
-                "e:\\32\\Sensor\\0.96寸OLED\\driver_oled\\Standard library\\System",
-                "e:\\32\\Sensor\\0.96寸OLED\\driver_oled\\Standard library\\Hardware",
+                "e:\\32\\Sensor\\0.96inchOLED\\driver_oled\\SPL\\driver_oled\\Start",
+                "e:\\32\\Sensor\\0.96inchOLED\\driver_oled\\SPL\\driver_oled\\Library",
+                "e:\\32\\Sensor\\0.96inchOLED\\driver_oled\\SPL\\driver_oled\\User",
+                "e:\\32\\Sensor\\0.96inchOLED\\driver_oled\\SPL\\driver_oled\\System",
+                "e:\\32\\Sensor\\0.96inchOLED\\driver_oled\\SPL\\driver_oled\\Hardware",
                 "E:\\Keil\\ARM\\ARMCC\\include",
                 "E:\\Keil\\ARM\\ARMCC\\include\\rw"
             ],

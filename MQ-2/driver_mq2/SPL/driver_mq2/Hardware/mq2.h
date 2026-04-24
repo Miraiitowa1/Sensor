@@ -22,6 +22,7 @@
 #define MQ2_DO_GPIO_PIN     GPIO_Pin_1
 #endif
 
+//函数声明
 void MQ2_Init(void);
 uint16_t MQ2_GetData(void);
 float MQ2_GetData_PPM(void);

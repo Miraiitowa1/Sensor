@@ -31,5 +31,7 @@ int main(void)
 	
 	OLED_ShowString(0, 0, "driver_oled", OLED_8X16);
 	
+	OLED_ShowString(0, 20, "hello,gy-30", OLED_8X16);
+	
 	OLED_Update();
 }

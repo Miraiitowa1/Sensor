@@ -847,8 +847,8 @@ I (.\Library\stm32f10x_tim.h)(0x4D783BB4)
 I (.\Library\stm32f10x_usart.h)(0x4D783BB4)
 I (.\Library\stm32f10x_wwdg.h)(0x4D783BB4)
 I (.\Library\misc.h)(0x4D783BB4)
-I (Hardware\adcx.h)(0x69E90809)
-F (.\Hardware\adcx.h)(0x69E90809)()
+I (Hardware\adcx.h)(0x69EB9AD5)
+F (.\Hardware\adcx.h)(0x69EB9AD5)()
 F (.\Hardware\mq2.c)(0x69E99898)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\Start -I .\Library -I .\User -I .\System -I .\Hardware --no-multibyte-chars-I.\RTE\_Target_1-IE:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IE:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\mq2.o --omf_browse .\objects\mq2.crf --depend .\objects\mq2.d)
 I (.\Start\stm32f10x.h)(0x4D783CB4)
 I (.\Start\core_cm3.h)(0x4D523B58)
@@ -878,12 +878,12 @@ I (.\Library\stm32f10x_tim.h)(0x4D783BB4)
 I (.\Library\stm32f10x_usart.h)(0x4D783BB4)
 I (.\Library\stm32f10x_wwdg.h)(0x4D783BB4)
 I (.\Library\misc.h)(0x4D783BB4)
-I (Hardware\adcx.h)(0x69E90809)
+I (Hardware\adcx.h)(0x69EB9AD5)
 I (.\System\Delay.h)(0x6130920E)
 I (E:\Keil\ARM\ARMCC\include\math.h)(0x588B8344)
-I (Hardware\mq2.h)(0x69E99521)
-F (.\Hardware\mq2.h)(0x69E99521)()
-F (.\Hardware\LED.c)(0x69E9106A)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\Start -I .\Library -I .\User -I .\System -I .\Hardware --no-multibyte-chars-I.\RTE\_Target_1-IE:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IE:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\led.o --omf_browse .\objects\led.crf --depend .\objects\led.d)
+I (Hardware\mq2.h)(0x69EB9AEB)
+F (.\Hardware\mq2.h)(0x69EB9AEB)()
+F (.\Hardware\LED.c)(0x69EB9BED)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\Start -I .\Library -I .\User -I .\System -I .\Hardware --no-multibyte-chars-I.\RTE\_Target_1-IE:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IE:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\led.o --omf_browse .\objects\led.crf --depend .\objects\led.d)
 I (.\Start\stm32f10x.h)(0x4D783CB4)
 I (.\Start\core_cm3.h)(0x4D523B58)
 I (E:\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
@@ -912,7 +912,8 @@ I (.\Library\stm32f10x_tim.h)(0x4D783BB4)
 I (.\Library\stm32f10x_usart.h)(0x4D783BB4)
 I (.\Library\stm32f10x_wwdg.h)(0x4D783BB4)
 I (.\Library\misc.h)(0x4D783BB4)
-F (.\Hardware\LED.h)(0x69E90FD7)()
+I (Hardware\LED.h)(0x69EB9B7A)
+F (.\Hardware\LED.h)(0x69EB9B7A)()
 F (.\User\main.c)(0x69E9B1D0)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\Start -I .\Library -I .\User -I .\System -I .\Hardware --no-multibyte-chars-I.\RTE\_Target_1-IE:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IE:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
 I (.\Start\stm32f10x.h)(0x4D783CB4)
 I (.\Start\core_cm3.h)(0x4D523B58)
@@ -945,7 +946,7 @@ I (.\Library\misc.h)(0x4D783BB4)
 I (.\System\Delay.h)(0x6130920E)
 I (.\Hardware\OLED.h)(0x6714E2A8)
 I (.\Hardware\OLED_Data.h)(0x6714E988)
-I (.\Hardware\mq2.h)(0x69E99521)
+I (.\Hardware\mq2.h)(0x69EB9AEB)
 F (.\User\stm32f10x_conf.h)(0x4D99A59E)()
 F (.\User\stm32f10x_it.c)(0x4D99A59E)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\Start -I .\Library -I .\User -I .\System -I .\Hardware --no-multibyte-chars-I.\RTE\_Target_1-IE:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-IE:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_it.o --omf_browse .\objects\stm32f10x_it.crf --depend .\objects\stm32f10x_it.d)
 I (User\stm32f10x_it.h)(0x4D99A59E)
