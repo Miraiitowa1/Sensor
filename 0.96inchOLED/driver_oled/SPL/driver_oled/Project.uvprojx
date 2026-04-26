@@ -685,6 +685,16 @@
               <FileType>5</FileType>
               <FilePath>.\Hardware\OLED_Data.h</FilePath>
             </File>
+            <File>
+              <FileName>KEY.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Hardware\KEY.c</FilePath>
+            </File>
+            <File>
+              <FileName>KEY.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Hardware\KEY.h</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

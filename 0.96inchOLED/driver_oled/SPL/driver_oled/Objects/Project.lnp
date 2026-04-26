@@ -28,6 +28,7 @@
 ".\objects\delay.o"
 ".\objects\oled.o"
 ".\objects\oled_data.o"
+".\objects\key.o"
 ".\objects\main.o"
 ".\objects\stm32f10x_it.o"
 --strict --scatter ".\Objects\Project.sct"

@@ -24,3 +24,4 @@ void Buzzer_Init(void)
   //默认关闭蜂鸣器
   BUZZER_OFF;
 }
+

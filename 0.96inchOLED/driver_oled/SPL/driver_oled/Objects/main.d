@@ -31,3 +31,4 @@
 .\objects\main.o: .\System\Delay.h
 .\objects\main.o: .\Hardware\OLED.h
 .\objects\main.o: .\Hardware\OLED_Data.h
+.\objects\main.o: .\Hardware\KEY.h

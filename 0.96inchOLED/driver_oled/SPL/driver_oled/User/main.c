@@ -1,6 +1,7 @@
 #include "stm32f10x.h"                  // Device header
 #include "Delay.h"
 #include "OLED.h"
+#include "KEY.h"
 
 /**
   * 坐标轴定义：
@@ -28,6 +29,8 @@ uint8_t temp, humi;
 int main(void)
 {
 	OLED_Init();
+	
+	KEY_Init();
 	
 	OLED_ShowString(0, 0, "driver_oled", OLED_8X16);
 	
